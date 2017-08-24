@@ -1,0 +1,10 @@
+G:\R1\A1\A1\bin\A1.dll.config
+G:\R1\A1\A1\bin\A1.dll
+G:\R1\A1\A1\bin\A1.pdb
+G:\R1\A1\A1\bin\A1.xml
+G:\R1\A1\A1\obj\Debug\A1.vbprojResolveAssemblyReference.cache
+G:\R1\A1\A1\obj\Debug\A1.Resources.resources
+G:\R1\A1\A1\obj\Debug\A1.vbproj.GenerateResource.Cache
+G:\R1\A1\A1\obj\Debug\A1.dll
+G:\R1\A1\A1\obj\Debug\A1.xml
+G:\R1\A1\A1\obj\Debug\A1.pdb
